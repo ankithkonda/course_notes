@@ -16,7 +16,7 @@ e.g. O(n), O(2n), O(log(n)) or O(1) == O(0n+1)
 
 n = length of the input to the function
 
-Calculate TIME effecieny example - 
+##### Calculate TIME effecieny example - 
 
 ```
 
@@ -68,7 +68,7 @@ average case - `O(16n+2)`
 So for APPROXIMATION Regardless of the best case or average case, it's still going to resolve to Big O of n - `O(n)` in linear time
 
 
-Calculate SPACE effecieny example - 
+##### Calculate SPACE effecieny example - 
 
 For example if you need to copy the input string 3 times in the code, then its just -  
 `O(3n)`
