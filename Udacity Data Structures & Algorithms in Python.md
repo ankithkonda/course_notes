@@ -73,5 +73,5 @@ So for APPROXIMATION Regardless of the best case or average case, it's still goi
 For example if you need to copy the input string 3 times in the code, then its just -  
 `O(3n)`
 
-
-
+[Big O Cheetsheet](http://bigocheatsheet.com/)
+  
